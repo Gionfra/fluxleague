@@ -5,7 +5,7 @@ const suggestions = document.getElementById("suggestions");
 let players = [];
 
 // Carica i dati dei player
-fetch("../data/players.json")
+fetch("data/players.json")
     .then(res => res.json())
     .then(data => {
         players = data.players;
