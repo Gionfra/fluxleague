@@ -4,25 +4,25 @@
             "name": "satvrn",
             "wins": 2,
             "podiums": 2,
-            "profile": "/fluxleague/players/satvrn.html"
+            "profile": "/players/satvrn.html"
         },
         {
             "name": "tsukuyami",
             "wins": 0,
             "podiums": 3,
-            "profile": "/fluxleague/players/tsukuyami.html"
+            "profile": "/players/tsukuyami.html"
         },
         {
             "name":"WashedJonnis",
             "wins":3,
             "podiums": 1,
-            "profile": "/fluxleague/players/WashedJonnis.html"
+            "profile": "/players/WashedJonnis.html"
         },
         {
             "name":"Charlie",
             "wins":0,
             "podiums": 0,
-            "profile": "/fluxleague/players/Charlie.html"
+            "profile": "/players/Charlie.html"
         }
     ]
 }
