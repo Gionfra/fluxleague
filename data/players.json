@@ -9,7 +9,7 @@
         },
         {
             "name": "tsukuyami",
-            "wins": 0,
+            "wins": 1,
             "podiums": 3,
             "profile": "players/tsukuyami.html",
             "region": "EU"
@@ -17,7 +17,7 @@
         {
             "name":"WashedJonnis",
             "wins":3,
-            "podiums": 1,
+            "podiums": 2,
             "profile": "players/WashedJonnis.html",
             "region": "EU"
         },
