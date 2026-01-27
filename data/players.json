@@ -9,7 +9,7 @@
         },
         {
             "name": "tsukuyami",
-            "wins": 1,
+            "wins": 2,
             "podiums": 3,
             "profile": "players/tsukuyami.html",
             "region": "EU"
@@ -17,7 +17,7 @@
         {
             "name":"WashedJonnis",
             "wins":3,
-            "podiums": 2,
+            "podiums": 3,
             "profile": "players/WashedJonnis.html",
             "region": "EU"
         },
@@ -27,6 +27,20 @@
             "podiums": 0,
             "profile": "players/Charlie.html",
             "region": "AS"
+        },
+        {
+            "name":"GreninjaOfAsh69",
+            "wins":0,
+            "podiums": 1,
+            "profile": "players/GreninjaOfAsh69.html",
+            "region": "AS"
+        },
+        {
+            "name":"Arabation",
+            "wins":0,
+            "podiums": 1,
+            "profile": "players/Arabation.html",
+            "region": "EU"
         }
     ]
 }
