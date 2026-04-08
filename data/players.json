@@ -9,8 +9,8 @@
         },
         {
             "name": "tsukuyami",
-            "wins": 2,
-            "podiums": 3,
+            "wins": 3,
+            "podiums": 4,
             "profile": "players/tsukuyami.html",
             "region": "EU"
         },
@@ -41,6 +41,27 @@
             "podiums": 1,
             "profile": "players/Arabation.html",
             "region": "EU"
+        },
+        {
+            "name":"Origami",
+            "wins":0,
+            "podiums": 1,
+            "profile": "players/Origami.html",
+            "region": "NA"
+        },
+        {
+            "name":"WashedRishi",
+            "wins":0,
+            "podiums": 1,
+            "profile": "players/WashedRishi.html",
+            "region": "NA"
+        },
+        {
+            "name":"Kavian",
+            "wins":0,
+            "podiums": 1,
+            "profile": "players/Kavian.html",
+            "region": "AS"
         }
     ]
 }
